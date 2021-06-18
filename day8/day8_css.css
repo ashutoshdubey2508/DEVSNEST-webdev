@@ -1,0 +1,13 @@
+.grid{
+    display: inline-block;
+    position: relative;
+    left :-11px;
+    /* background-color: red; */
+}
+
+.ch{
+    background-color: red;
+}
+.ch:focus{
+    background-color: white;
+}
