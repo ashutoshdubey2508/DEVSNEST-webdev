@@ -1,0 +1,51 @@
+
+/* .frames{ */
+    /* background-color: rgb(235, 78, 78); */
+    /* background-color: blue; */
+    /* width: 400px; */
+    /* height: 400px; */
+     /* display: grid; */
+    /* grid-template-rows: 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px; */
+    /* grid-template-columns: 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px; */
+   /* grid-template-rows: repeat(20,1f); */
+   /* grid-template-columns: repeat(20,1f); */
+   
+    /* row-gap: 1px; */
+    /* column-gap: 1px; */
+/* } */
+/* .gridcontainer{
+    background-color:#DE4738; 
+    width: 400px;
+    height: 400px;
+
+}
+.white{
+    background-color: white; 
+    width: 20px;
+    height: 20px;
+} */
+.frames{ 
+    margin-left: 400px;
+    margin-top: 100px;
+    /* box-shadow: 0px 1px 1px; */
+    /* display:inline-block; */
+}
+td{
+    width: 20px;
+    height: 20px;
+    background: #DE4738;
+    /* margin:2px; */
+    /* border-spacing: null; */
+    border:1px solid #E24E3F;
+
+
+}
+table{
+    border-spacing: 0px;
+
+}
+.white{
+    background-color: rgb(253, 252, 252);
+    /* -webkit-animation: random 5s infinite; */
+    /* animation: randoms infinite ; */
+}
