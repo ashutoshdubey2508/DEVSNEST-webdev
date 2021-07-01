@@ -1,0 +1,33 @@
+body{
+    background-image: url('day13img.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#rating{
+    margin-left: 350px;
+    font-size: xx-large;
+    
+}
+#status{
+    margin-left: 350px;
+    font-size: xx-large;
+}
+#maxrating{
+    margin-left: 350px;
+    font-size: xx-large;
+}
+#rank{
+    margin-left: 350px;
+    font-size: xx-large;
+}
+.main{
+    align-content: center;
+    display: in;
+    /* display: inline-flex; */
+    margin-top: 100px;
+    margin-left: 399px;
+    font-size: xxx-large;
+}
+#myform{
+    margin-left: 400px;
+}
